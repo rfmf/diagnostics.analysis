@@ -1,0 +1,10 @@
+Package: diagnostics.analysis
+Title: Medical Diagnostic Analysis Tool
+Version: 0.0.0.9000
+Authors@R: 
+    person("Rafael", "Vaz", , "rfmf@protonmail.com", role = c("aut", "cre"))
+Description: Tool to help medical professionals to diagnose patients.
+License: MIT + file LICENSE
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.2.1
